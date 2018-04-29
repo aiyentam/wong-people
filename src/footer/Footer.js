@@ -5,7 +5,10 @@ class Footer extends Component {
   render() {
     return (
       <div className="footer">
-        <span>footer</span>
+        <span>
+          Contact Us:
+          <i class="material-icons">call</i>(202)494-3700
+        </span>
       </div>
     );
   }
