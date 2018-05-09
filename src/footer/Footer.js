@@ -6,8 +6,8 @@ class Footer extends Component {
     return (
       <div className="footer">
         <span>
-          Contact Us:
           <i class="material-icons">call</i>(202)494-3700
+          <i class="material-icons">place</i>
         </span>
       </div>
     );
